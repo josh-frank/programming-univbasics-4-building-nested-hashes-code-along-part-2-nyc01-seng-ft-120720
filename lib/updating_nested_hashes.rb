@@ -64,7 +64,9 @@ def add_characters
   epic_tragedy[:additional_characters].push(
       { :name => 'Prince Escalus' }
     )
-  
+  epic_tragedy[:additional_characters].push(
+      { :name => 'Apothecary' }
+    )  
 
 
 
